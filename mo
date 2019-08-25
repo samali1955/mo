@@ -1,3 +1,58 @@
-#EXTINF:-1,24#EXTINF:-1, FATHER TED
+#EXTINF:-1,Movies R
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1,Movies Q
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1,Movies P
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1,Movies N
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+#EXTINF:-1,Science Fiction Movie
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
+#EXTINF:-1,24/7 frinds
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1,24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1,24/7 Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1,EXTINF:-1 Movies B
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1,EXTINF:-1 Movies C
+https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
+#EXTINF:-1,EXTINF:-1 Movies E
+https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+#EXTINF:-1,#EXTINF:-1, Big Bang t
+https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+#EXTINF:-1,#EXTINF:-1, Animal planet
+https://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8
+#EXTINF:-1,  TV CHINA 8 HD
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1,#EXTINF:-1,Movies F
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+
+
+#EXTINF:-1,movie I
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+#EXTINF:-1,Movies J
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+#EXTINF:-1,Movies K
+http://45.126.83.51/uq2663/h/h37/01.m3u8
+#EXTINF:-1,Movies L
+http://45.126.83.51/uq2663/h/h04/index2.m3u8
+#EXTINF:-1,Movies A
+http://45.126.83.51/uq2663/h/h11/index2.m3u8
+#EXTINF:-1,Movies D
+http://45.126.83.51/x6bnqe/s/s31/index2.m3u8
+#EXTINF:-1,Movies M
+http://45.126.83.51/qwr9ew/s/s24/index2.m3u8
+
+#EXTINF:-1,FOX MOVIE PREMIUM
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8
+#EXTINF:-1,THRILL
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1, Movies H
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1,HBO (Asia)
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+
 
 
