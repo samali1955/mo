@@ -92,6 +92,102 @@ http://163.172.158.2/hls/stream.m3u8
 http://iptv.salaamtv.org/salaam/playlist1/index.m3u8
 #EXTINF:-1,KALAMEHTV/ISL
 http://tv.kalemehtv.net:1935/live/kalemeh_720p/playlist.m3u8
+#EXTINF:-1,IR: GEM Film HD
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15171
+#EXTINF:-1,IR: GEM JUNIOR
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15170
+#EXTINF:-1,IR: GEM Kids
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15169
+#EXTINF:-1,IR: GEM KURD
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15168
+#EXTINF:-1,IR: GEM Life
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15167
+#EXTINF:-1,IR: GEM Music
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15166
+#EXTINF:-1,IR: GEM SERIES
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15165
+#EXTINF:-1,IR: GEM TEEN
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15164
+#EXTINF:-1,IR: GEM Travel
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15163
+#EXTINF:-1,IR: GEM Turk
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15162
+#EXTINF:-1,IR: GEM TV
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15161
+#EXTINF:-1,IR: IRIB TV 1
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15160
+#EXTINF:-1,IR: IRIB TV 2
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15158
+#EXTINF:-1,IR: IRIB TV 3
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15157
+#EXTINF:-1,IR: IRIB TV 4
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15156
+#EXTINF:-1,IR: IRIB TV 5
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15155
+#EXTINF:-1,IR: IRIB TV1 (Back up)
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15159
+#EXTINF:-1,ir: Manoto TV HD
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/16879
+#EXTINF:-1,IR: Manoto TV HD(Back up)
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15205
+#EXTINF:-1,IR: AFNL Music
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15209
+#EXTINF:-1,IR: Andisheh tv
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15208
+#EXTINF:-1,IR: Appadana TV
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15189
+#EXTINF:-1,IR: BBC Persian
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15207
+#EXTINF:-1,IR: Caltex Music
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15206
+#EXTINF:-1,IR: Channel 1
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15192
+#EXTINF:-1,IR: Dreamland TV
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15190
+#EXTINF:-1,IR: HODHOD FARSI
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15198
+#EXTINF:-1,IR: iFilm TV AR
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15185
+#EXTINF:-1,IR: Imam Reza TV (live)
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15179
+#EXTINF:-1,IR: Iran AFA
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15184
+#EXTINF:-1,IR: Iran International HD
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15180
+#EXTINF:-1,IR: IRIB Namayesh
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15199
+#EXTINF:-1,IR: IRIB Nasim
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15200
+#EXTINF:-1,IR: IRIB Shoma
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15177
+#EXTINF:-1,IR: IRIB Varzesh
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15202
+#EXTINF:-1,IR: IRINN
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15201
+#EXTINF:-1,IR: ITN TV
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15183
+#EXTINF:-1,IR: Mohabat
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15182
+#EXTINF:-1,IR: OMID IRAN TV
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15188
+#EXTINF:-1,IR: Omid Javedan
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15176
+#EXTINF:-1,IR: Parnian TV
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15175
+#EXTINF:-1,IR: Pooya TV Nahal
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15181
+#EXTINF:-1,IR: Radio Farda TV
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15213
+#EXTINF:-1,IR: Radio Javan TV
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15216
+#EXTINF:-1,IR: Simaye Azadi
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15194
+#EXTINF:-1,IR: Tapesh_TV
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15195
+#EXTINF:-1,IR: TV Persia 1 (Back UP)
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15203
+#EXTINF:-1,IR: VoA TV Persian
+http://212.8.243.218:25461/th63hr8e/x4hr7fmh/15214
 
 
 
